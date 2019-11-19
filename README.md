@@ -18,5 +18,5 @@
 
 ## 页面效果
 ##### 页面显示
-![screenshot](./screenshot/1.png)
+![screenshot](./screenshot/1.jpg)
 
